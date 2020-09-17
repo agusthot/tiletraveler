@@ -85,4 +85,4 @@ while not victory:
         print("Victory!")
     else:
         valid_directions = find_directions(col, row)
-        print_directions(valid_directions)
+        print_directions(valid_directions) 
